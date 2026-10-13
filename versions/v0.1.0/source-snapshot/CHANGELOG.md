@@ -1,0 +1,14 @@
+# Changelog
+
+## 0.1.0
+
+Initial standalone beta release for Dead Space 3.
+
+- Steam, EA App / Origin, registry, mounted-drive, and manual discovery.
+- Executable and VIV archive validation before accepting a game folder.
+- Game-root mod deployment with preserved plugin, ReShade, and game subfolders.
+- Direct VIV and video-file replacement support through Vortex's file deployment.
+- TexMod `.tpf` placement in `TexMod Packages`, including mixed archives.
+- Archive-wrapper, unsafe-path, and destination-collision checks.
+- Manual-install guidance for patcher-based archives and executable replacement.
+- Original 640 x 360 game tile, full readable source, documentation, and MIT license.
